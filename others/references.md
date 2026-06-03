@@ -1,3 +1,2 @@
-<!DOCTYPE markdown>
-# Bibliography; References
+# Bibliography
 - No Credible Sources Yet!
